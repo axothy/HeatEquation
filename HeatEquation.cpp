@@ -1,10 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdint.h>
 #include <cmath>
 #include <vector>
 #include <array>
-#include <stdint.h>
+
 
 #define N 7
 #define K 11
